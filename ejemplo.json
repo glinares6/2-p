@@ -1,0 +1,18 @@
+{
+    "nombre" : "gianmarco",
+    "apelllido" : "linares",
+    "edad" : 27,
+    "cursos" : [
+        {"id" : 5,
+        "nombre" :"Drupal"
+        },
+        {
+            "id" : 19,
+            "nombre" : "Seupal avanzado"
+        },
+        {
+            "id" : 55,
+            "nombre" : "jacascript"
+        }
+    ]
+}
